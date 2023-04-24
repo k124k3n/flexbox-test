@@ -75,3 +75,14 @@
     align-self: flex-end;
     margin-bottom: 20px;
 }
+
+.footer {
+    display: flex;
+}
+
+.footer-item {
+    flex: 1;
+    border: 1px solid #fff; 
+    background-color: #D6E9FE;
+    height: 200px;
+}
